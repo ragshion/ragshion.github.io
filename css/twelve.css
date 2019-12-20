@@ -1,0 +1,94 @@
+/* Theme */
+
+#switcher .theme-click {
+    background-color: #ce0c21;
+}
+
+
+/*buttons*/
+
+.btn-md:hover {
+    background: #ce0c21;
+    color: #fff;
+}
+
+
+/*owl corousel*/
+
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #ce0c21;
+}
+
+
+/*navbar-scroll-custom*/
+
+.navbar-scroll-custom {
+    background: rgba(206, 12, 33, 0.95);
+}
+
+.navbar.navbar-scroll-custom {
+    border-top: 4px solid #f9596b;
+}
+
+@media (min-width: 991px) {
+    .navbar-nav li.active a,
+    navbar-nav li.active a:focus,
+    .navbar-nav li:focus a,
+    .nav-item.active a {
+        color: #ce0c21;
+    }
+}
+
+
+/*header-bg*/
+
+.header-bg:before {
+    background: linear-gradient(45deg, #f5c174 0%, #ce0c21 100%);
+}
+
+.header-buttons .btn-blue {
+    background: #ce0c21;
+}
+
+
+/*service-img*/
+
+.service-img span {
+    color: #ce0c21;
+}
+
+
+/*feature-icon*/
+
+.feature-icon {
+    background-color: #ce0c21;
+    border-color: rgb(253, 224, 227);
+}
+
+.feature-card:hover .feature-icon {
+    background-color: rgb(253, 224, 227);
+    border-color: #ce0c21;
+}
+
+.feature-card:hover .feature-icon span {
+    color: #ce0c21;
+}
+
+
+/*footer*/
+
+.footer {
+    background: #ce0c21;
+}
+
+
+/*back-to-top*/
+
+.back-to-top {
+    background: #ce0c21;
+}
+
+.back-to-top:hover span,
+.back-to-top:focus span {
+    color: #ce0c21;
+}

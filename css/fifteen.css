@@ -1,0 +1,94 @@
+/* Theme */
+
+#switcher .theme-click {
+    background-color: #17ad94;
+}
+
+
+/*buttons*/
+
+.btn-md:hover {
+    background: #17ad94;
+    color: #fff;
+}
+
+
+/*owl corousel*/
+
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #17ad94;
+}
+
+
+/*navbar-scroll-custom*/
+
+.navbar-scroll-custom {
+    background: rgba(23, 173, 148, 0.95);
+}
+
+.navbar.navbar-scroll-custom {
+    border-top: 4px solid #12caab;
+}
+
+@media (min-width: 991px) {
+    .navbar-nav li.active a,
+    navbar-nav li.active a:focus,
+    .navbar-nav li:focus a,
+    .nav-item.active a {
+        color: #4a77e4;
+    }
+}
+
+
+/*header-bg*/
+
+.header-bg:before {
+    background: linear-gradient(45deg, #3065b5 0%, #17ad94 100%);
+}
+
+.header-buttons .btn-blue {
+    background: #17ad94;
+}
+
+
+/*service-img*/
+
+.service-img span {
+    color: #17ad94;
+}
+
+
+/*feature-icon*/
+
+.feature-icon {
+    background-color: #17ad94;
+    border-color: rgb(211, 249, 243);
+}
+
+.feature-card:hover .feature-icon {
+    background-color: rgb(211, 249, 243);
+    border-color: #17ad94;
+}
+
+.feature-card:hover .feature-icon span {
+    color: #17ad94;
+}
+
+
+/*footer*/
+
+.footer {
+    background: #17ad94;
+}
+
+
+/*back-to-top*/
+
+.back-to-top {
+    background: #17ad94;
+}
+
+.back-to-top:hover span,
+.back-to-top:focus span {
+    color: #17ad94;
+}
